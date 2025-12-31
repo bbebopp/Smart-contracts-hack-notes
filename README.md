@@ -1,1 +1,1 @@
-# Smart-contracts-hack-notes
+# Smart contracts-HackEvents-notes
